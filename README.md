@@ -20,6 +20,8 @@
   <a href="https://www.instagram.com/_huy.q/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
 
+---
+
 ###
 
 <h3 align="left">Technical Skill</h3>
@@ -90,6 +92,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
+---
+
 ###
 
 <div align="center">
@@ -97,6 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quochuy242&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+---
 
 <img align="right" height="200" src="https://media.giphy.com/media/2QHLYZFJgjsFq/giphy.gif?cid=ecf05e4719yj6lh9qgnswcq9ab2iu5xlhbhem0jg4nze0ayu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
@@ -109,6 +114,8 @@
 </div>
 
 ###
+
+---
 
 ###
 
