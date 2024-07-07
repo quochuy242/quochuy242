@@ -110,5 +110,7 @@
 ###
 
 ###
+<p align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=30ez4xhfmabvu3gqe31j8554w)
+</p>
 ###
