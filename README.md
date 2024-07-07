@@ -97,13 +97,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quochuy242&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/quochuy242/quochuy242/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img align="right" height="200" src="https://media.giphy.com/media/2QHLYZFJgjsFq/giphy.gif?cid=ecf05e4719yj6lh9qgnswcq9ab2iu5xlhbhem0jg4nze0ayu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
@@ -114,5 +107,13 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=30ez4xhfmabvu3gqe31j8554w&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/quochuy242/quochuy242/output/snake.svg" alt="Snake animation" />
 
 ###
