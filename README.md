@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqllite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
   </a>
 </p>
 
