@@ -10,9 +10,10 @@
 
 ###
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,r,cpp,md,latex" />
+    <img src="https://skillicons.dev/icons?i=python,r,md,latex&theme=light" />
   </a>
 </p>
 
@@ -20,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,flask,fastapi,selenium,sklearn" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,flask,fastapi,sklearn&theme=light" />
   </a>
 </p>
 
@@ -29,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,linux,docker,git,bash" />
+    <img src="https://skillicons.dev/icons?i=anaconda,linux,docker,git,bash&theme=light" />
   </a>
 </p>
 
@@ -39,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=light" />
   </a>
 </p>
 
