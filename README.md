@@ -62,18 +62,8 @@
 
 ###
 
----
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/quochuy242/quochuy242/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
-
 
 
 <img align="right" height="200" src="https://media.giphy.com/media/2QHLYZFJgjsFq/giphy.gif?cid=ecf05e4719yj6lh9qgnswcq9ab2iu5xlhbhem0jg4nze0ayu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
