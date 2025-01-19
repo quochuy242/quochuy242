@@ -2,7 +2,6 @@
 
 ###
 
-<p align="center">A passionate Data Scientist from Vietnam</p>
 
 ###
 
